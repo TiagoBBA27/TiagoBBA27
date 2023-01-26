@@ -13,6 +13,7 @@
 - 🎓Future Science Computer student
 - 👦17 years old
 - 🇧🇷 Brazillian Guy
+- 🎉Fun facts: ⚽🏐🏓🥋🎮🎵📽️🍕🍔🛩️
 
 <br><br>
 
