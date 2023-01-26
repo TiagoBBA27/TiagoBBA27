@@ -2,8 +2,8 @@
 
 <br>
 
-<div id="about" align="left">
-  <picture><img src="https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif" width=250px align="right"></picture> 
+<picture><img src="https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif" width=250px align="right"></picture> 
+<div id="about">
   <h2>About me</h2>
 </div>
 
