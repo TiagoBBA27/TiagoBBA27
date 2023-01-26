@@ -4,25 +4,23 @@
 
 <!-- <h1>About me</h1>
 
-<picture><img src="https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif" width=250px align="right"></picture> 
+
 
 <br>
-- 💻 Front-end developer for 2 years
-- 🎨 Passionate about UI/UX design (but not good)
-- 🎓Future Science Computer student
-- 👦17 years old
-- 🇧🇷 Brazillian Guy
+
+
 - 
 <br><br> -->
 
 ## About Me :
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+<picture><img src="https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif" width=250px align="right"></picture> 
+
+- 💻 Front-end developer for 2 years
+- 🎨 Passionate about UI/UX design (but not good)
+- 🎓Future Science Computer student
+- 👦17 years old
+- 🇧🇷 Brazillian Guy
 
 
 <div id="connections">
