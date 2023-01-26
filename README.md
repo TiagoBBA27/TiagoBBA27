@@ -1,5 +1,6 @@
 <h1 align="center"><b>Hello! I'm Tiago Andrade </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)
 <div align="center">
   <a href="mailto:tiagobbandrade2704@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
