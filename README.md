@@ -2,4 +2,12 @@
 
 <br>
 
-## Let's talk <picture><img src="https://tenor.com/pt-BR/view/piyueshmodi-curiouspiyuesh-visualthinking-agreement-handshake-gif-20416314" width=50px></picture>
+<div id="header" align="center">
+  <h2>Let's talk 📢</h2>
+  <ul>
+    <li>
+      <a href="mailto: tiagobbandrade2704@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+  </ul>
+</div>
