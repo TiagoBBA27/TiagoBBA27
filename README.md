@@ -2,6 +2,15 @@
 
 <br>
 
+<a href="mailto: tiagobbandrade2704@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/tiagobba" target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br>
+
 ## About Me
 
 <picture><img src="https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif" width=250px align="right"></picture> 
@@ -56,19 +65,3 @@
   ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
   ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 </p>
-
-<div id="connections">
- <h2>Let's talk 📢</h2>
-  <ul>
-    <li>
-      <a href="mailto: tiagobbandrade2704@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
-    </li>
-    <li>
-      <a href="https://www.linkedin.com/in/tiagobba" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
-    </li>
-  </ul>
-</div>
