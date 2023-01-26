@@ -2,17 +2,15 @@
 
 <br>
 
-<div id="about">
-  <h1>About me</h1>
-  <picture><img src="https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif" width=250px align="right"></picture> 
-  <br>
+<h1>About me</h1>
+<picture><img src="https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif" width=250px align="right"></picture> 
+<br>
 - 💻 Front-end developer for 2 years
 - 🎨 Passionate about UI/UX design (but not good)
 - 🎓Future Science Computer student
 - 👦17 years old
 - 🇧🇷 Brazillian Guy
-</div>
-
+<br>
 
 
 <div id="connections">
