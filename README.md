@@ -2,12 +2,24 @@
 
 <br>
 
-<div id="header" align="center">
-  <h2>Let's talk 📢</h2>
+<div id="about" align="left">
+  <h2>About me</h2>
+</div>
+<picture><img src="https://media.tenor.com/q9s_XmoedE8AAAAj/piske-usagi.gif" width=250px align="right"></picture>
+
+
+<div id="connections">
+ <h2>Let's talk 📢</h2>
   <ul>
     <li>
-      <a href="mailto: tiagobbandrade2704@gmail.com">
+      <a href="mailto: tiagobbandrade2704@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/tiagobba" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+    </li>
   </ul>
 </div>
