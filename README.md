@@ -22,7 +22,6 @@
 
 - 💻 Front-end developer for 2 years
 - 🎨 Passionate about UI/UX design (but not good)
-- 🎓Future Science Computer student
 - 👦17 years old
 - 🇧🇷 Brazillian Guy
 - 🎉Fun facts: ⚽🏐🏓🥋🎮🎵📽️🍕🍔🛩️
