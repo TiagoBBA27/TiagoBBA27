@@ -21,7 +21,6 @@
 <br>
 
 - 💻 Front-end developer for 2 years
-- 🎨 Passionate about UI/UX design (but not good)
 - 👦18 years old
 - 🇧🇷 Brazillian Guy
 - 🎉Fun facts: ⚽🏐🏓🥋🎮🎵📽️🍕🍔🛩️
