@@ -20,7 +20,7 @@
 
 <br>
 
-- 💻 Front-end developer for 2 years
+- 💻 Front-end developer for 4 years
 - 👦19 years old
 - 🇧🇷 Brazillian Guy
 - 🎉Fun facts: ⚽🏐🏓🥋🎮🎵📽️🍕🍔🛩️
